@@ -64,11 +64,11 @@ The dashboard presents the following key insights:
 
 ## Dashboard Preview
 
-![Toy Store KPI Dashboard](screenshots/dashboard.png)
+![Toy Store KPI Dashboard](toy-store-kpi-report/screenshots/dashboard.png)
 
 ## Data Model
 
-![Toy Store Data Model](screenshots/data-model.png)
+![Toy Store Data Model](toy-store-kpi-report/screenshots/data-model.png)
 
 ## Tools and Skills Used
 
